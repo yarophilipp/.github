@@ -18,7 +18,7 @@ With cutting-edge AI, rugged hardware, and a modular system architecture, we del
 - IP67 & IP69 protection – dust-tight, waterproof, high-temperature pressure washdown
 - Operates in temperatures from -20 °C to +50 °C
 - Corrosion & shock resistant, ATEX-compliant for explosive environments
-- Modular payloads from 3–20 kg, reach up to 1.6 m
+- Modular payloads from 5–20 kg, reach up to 1.6 m
 
 **YARO Cobot Series** – engineered for environments where other robots fail, fully customizable for mission-specific needs.
 
